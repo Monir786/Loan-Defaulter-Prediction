@@ -11,5 +11,5 @@ The project follows all data science methodologies.
 5. Assessment
 
 Hope this will help you to understand the complete process.
-Please look at the ipynb file for detail description aong with step by step code.
+Please look at the ipynb file for detail description along with step by step code.
 Any issue or in case if you can improve the accuracy, please let me know.
