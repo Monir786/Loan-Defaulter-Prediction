@@ -4,7 +4,7 @@ This classification python notebook is created as a part of our university assig
 
 The project follows all data science methodologies.
 
-1. Data Acquisistion
+1. Data Acquisition
 2. Preprocessing
 3. Transformation
 4. Model
